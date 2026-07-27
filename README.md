@@ -1,5 +1,6 @@
 # Customer Segmentation using Unsupervised Learning
 
+Video Explanation and dataset are given here : https://drive.google.com/drive/folders/1-8gEjOXwyCoAA1O1W2_wlBjNc0jt9SBD?usp=sharing
 ## Project Overview
 
 This project performs customer segmentation using RFM analysis and
